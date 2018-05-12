@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7408'
     url: http://www.gutenberg.org/2009/agents/7408
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19470#Yorkshire-LyricsVerses-not-in-the-Dialect
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-10-05'
 gutenberg_type: Text
